@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nowimps8
 #### I make stuff sometimes
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer+and+3D+Modeler)](https://github.com/Nowimps8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM/RedM+Developer+and+3D+Modeler)](https://github.com/Nowimps8)
 ---
 
 #### Skills and Tools:
