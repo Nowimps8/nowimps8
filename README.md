@@ -4,14 +4,24 @@
 ---
 
 #### Skills and Tools:
-[![3ds Max](https://img.shields.io/badge/-3ds_Max-black?style=flat-square&logo=autodesk)](https://www.autodesk.com/products/3ds-max/overview)
-[![Maya](https://img.shields.io/badge/-Maya-black?style=flat-square&logo=autodesk)](https://www.autodesk.com/products/maya/overview)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)](https://www.adobe.com/products/photoshop.html)
-[![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)](https://www.lua.org/)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://www.java.com/)
-[![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![3ds Max](https://img.shields.io/badge/-3ds_Max-black?style=flat-square&logo=autodesk)
+![Maya](https://img.shields.io/badge/-Maya-black?style=flat-square&logo=autodesk)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![CodeWalker](https://img.shields.io/badge/-CodeWalker-black?style=flat-square)
+![GIMS Evo](https://img.shields.io/badge/-GIMS_Evo-black?style=flat-square)
+![OpenIV](https://img.shields.io/badge/-OpenIV-black?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+
 
 ---
 
